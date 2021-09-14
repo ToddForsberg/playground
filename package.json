@@ -12,7 +12,7 @@
     "@angular/router": "^7.0.1",
     "core-js": "^2.5.7",
     "rxjs": "^6.3.3",
-    "set-value": "^3.0.1",
+    "set-value": "^4.0.1",
     "wijmo": "^5.20183.550",
     "zone.js": "^0.8.26"
   },
